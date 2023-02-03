@@ -82,14 +82,14 @@ export default function HomeRightSection() {
             <Box>
                 <Flex>
                     <Image
-                        w="100%"
-                        ml="-10px"
+                        w="60%"
+                        ml="-2%"
                         src={Femme}
 
                     />
                     <Image
-                        w="100%"
-                        ml="-90px"
+                        w="60%"
+                        ml="-18%"
                         src={Homme}
                     />
                 </Flex>
