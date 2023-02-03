@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Normal";
+    src: local("Montserrat-VariableFont_wght"),
+        url("./fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Italic";
+    src: local("Montserrat-Italic-VariableFont_wght"),
+        url("./fonts/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PoppinsNormal";
+    src: local("Poppins-Light"),
+        url("./fonts/Poppins-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PoppinsItalic";
+    src: local("Poppins-LightItalic"),
+        url("./fonts/Poppins-LightItalic.ttf") format("truetype");
+}
